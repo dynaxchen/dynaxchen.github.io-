@@ -1,2 +1,2 @@
-# dynaxchen.github.io-
+# dynaxchen.github.io
  blog
